@@ -1,0 +1,13 @@
+
+ Liste des SGBD SQL (Système de Gestion de Base de Données relationnelles) :
+
+- MySQL
+- PostgreSQL
+- SQL Server
+- SQLite
+
+Liste des SGBD NoSQL (Système de Gestion de Base de Données non relationnelles) :
+
+- MongoDB
+- Redis
+- Apache CouchDB
